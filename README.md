@@ -1,5 +1,5 @@
 # Simple-Chatbot
-A simple chatbot based on reddit comments.
+A chatbot based on reddit comments.
 
 This Chatbot has been trained on reddit comments.
 
